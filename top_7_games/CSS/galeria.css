@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(24, 41, 190) ;
+align-content: center;
+color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+color: rgb(51, 255, 0);
+}
+
+img{
+float: left;
+
+}
+table{
+    background-color: black;
+width: 40vw;
+border-spacing:8px;
+border: green 5px solid;
+margin: auto;
+}
+.s{
+border: green 10px solid;
+
+
+}
